@@ -7,7 +7,7 @@ Welcome to **Rakshak**, an app designed to create a **community for stray animal
 
 Our mission is simple: to bridge the gap between animal lovers and stray animals, providing adoption, medical care, and resources to make sure every animal gets the love and care they deserve.
 
-## Table of Contents 📑
+# Table of Contents 📑
 - [Introduction](#introduction)
 - [Identifying the Problem](#identifying-the-problem)
 - [Our Solution](#our-solution)
@@ -17,7 +17,7 @@ Our mission is simple: to bridge the gap between animal lovers and stray animals
 - [Future Scope](#future-scope)
 - [Contact & Support](#contact-support)
 
-## Introduction 🌟
+# Introduction 🌟
 **Rakshak** is a **simple, user-friendly app** that allows anyone to contribute to the welfare of stray animals, whether they're looking to adopt, vaccinate, feed, or provide temporary care. Rakshak connects animal lovers, volunteers, and organizations, creating a united front to improve the lives of stray animals. 
 
 By providing a platform for adoption, vaccination, feeding, and fostering, we aim to create a world where **no stray animal is left behind** — from dogs and cats to birds, cows, and other animals.
@@ -25,17 +25,17 @@ By providing a platform for adoption, vaccination, feeding, and fostering, we ai
 ![LOGO](https://github.com/user-attachments/assets/571c90ff-a0a9-47e7-b449-b930b800caad)
 
 
-## Identifying the Problem 🚨
+# Identifying the Problem 🚨
 
 Stray animals of all species face numerous challenges, including:
-- **Lack of care**: Stray animals often lack access to food, water, or shelter, leaving them vulnerable to health issues, diseases, and injuries. 🐕🐈🦢
+- **Lack of care**: Stray animals often lack access to food, water, or shelter, leaving them vulnerable to health issues, diseases, and injuries. 🐕🐈
 - **Rabies and Disease Risk**: Stray animals can carry diseases like rabies, which can spread to humans. In India, stray animals contribute to the spread of rabies, leading to over **20,000 deaths** annually. 🦠
 - **Public Safety**: Stray animals, whether they are dogs, cats, or larger animals, can pose a threat to public safety due to potential aggression or illness. 🚶‍♂️⚠️
 - **Lack of Adoption Opportunities**: Many stray animals are left without homes, suffering in the streets due to limited adoption resources. 🏚️
 
 These issues highlight the need for effective solutions that improve the lives of all stray animals, ensure their health, and reduce their impact on public safety.
 
-## Our Solution 💡
+# Our Solution 💡
 
 **Rakshak** provides a platform where people can:
 - **Adopt** stray animals 🏡
@@ -51,7 +51,7 @@ Rakshak enables a **community** of animal lovers, NGOs, and volunteers to collab
 
 
 
-##  Key Features 🚀
+#  Key Features 🚀
 
 ## 1. Adoption Made Easy 🏡
 Users can post and browse profiles of stray animals for adoption.
@@ -85,7 +85,7 @@ Personalized recommendations on how users can help based on their location and a
 ## 9. Immediate Veterinary Support 🏥
 If users find a wounded or sick animal, they can immediately connect with veterinarians through the app for advice or to arrange for medical assistance.
 
-## Technologies Used 🛠️
+# Technologies Used 🛠️
 
 The Rakshak app was developed using the following technologies:
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>  <a href="https://mapsplatform.google.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo07JtbAGwZaV0IbW6jpCxpfIdXjf7glS0p_MoC7YIYg&s" alt="firebase" width="40" height="40"/> </a></a>  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a></p>
@@ -96,5 +96,9 @@ The Rakshak app was developed using the following technologies:
 - **Google Maps API** for geolocation and mapping nearby animal care centers 🗺️
 - **ARCore** for AR-based animal recognition (future feature) 🤳
 - **AI & Machine Learning** for **image recognition** (e.g., animal health detection and lost pet matching) 🧠
+
+## You can download the [APK](https://drive.google.com/file/d/11EMlcwbaNGWHzxg-pEdSTtwAkANRVt9t/view?usp=drive_link).
+
+## [Link to the demo video of RAKSHAK](https://drive.google.com/file/d/17k3H0OwssscFoLWfMtoVnRerMLApY5WW/view?usp=drive_link "Title")
 
 
