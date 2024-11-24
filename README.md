@@ -1,3 +1,7 @@
+<center>
+<img src="https://readme-typing-svg.herokuapp.com?color=4cbb17&size=40&width=900&height=80&lines=Welcome+to+Rakshak+🐾" />
+</center>
+
 # Rakshak: From Streets to Hearts, Every Stray Matters  🐾
 
 Welcome to **Rakshak**, an app designed to create a **community for stray animals** and connect animal lovers, volunteers, and organizations to improve the lives of stray animals in need. 🌍💖
