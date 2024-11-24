@@ -97,6 +97,13 @@ The Rakshak app was developed using the following technologies:
 - **ARCore** for AR-based animal recognition (future feature) 🤳
 - **AI & Machine Learning** for **image recognition** (e.g., animal health detection and lost pet matching) 🧠
 
+# How Rakshak Aligns with UN Sustainable Development Goals
+![image](https://github.com/user-attachments/assets/3b82eb3e-7ea0-488c-b058-e466011f21ab)       ![image](https://github.com/user-attachments/assets/0c332c84-f537-4d0d-9d87-8dc798a571c4)
+ 
+
+The Rakshak project aligns closely with the UN Principles, particularly Goal 3: Good Health and Well-Being and Goal 15: Life on Land. By providing a platform for the adoption, medical care, and vaccination of stray animals, Rakshak promotes the health and well-being of both animals and humans. It helps reduce the risk of zoonotic diseases, such as rabies, by ensuring proper veterinary care and tracking of immunizations. Additionally, Rakshak directly contributes to Goal 15, as it focuses on the protection and welfare of stray animals, enhancing biodiversity and supporting sustainable ecosystems. Through adoption, care, and rescue efforts, Rakshak fosters a compassionate environment for animals, helping to preserve life on land and ensuring healthier, safer communities.
+
+
 ## You can download the [APK](https://drive.google.com/file/d/11EMlcwbaNGWHzxg-pEdSTtwAkANRVt9t/view?usp=drive_link).
 
 ## [Link to the demo video of RAKSHAK](https://drive.google.com/file/d/17k3H0OwssscFoLWfMtoVnRerMLApY5WW/view?usp=drive_link "Title")
