@@ -107,7 +107,7 @@ The Rakshak app was developed using the following technologies:
 The Rakshak project aligns closely with the UN Principles, particularly Goal 3: Good Health and Well-Being and Goal 15: Life on Land. By providing a platform for the adoption, medical care, and vaccination of stray animals, Rakshak promotes the health and well-being of both animals and humans. It helps reduce the risk of zoonotic diseases, such as rabies, by ensuring proper veterinary care and tracking of immunizations. Additionally, Rakshak directly contributes to Goal 15, as it focuses on the protection and welfare of stray animals, enhancing biodiversity and supporting sustainable ecosystems. Through adoption, care, and rescue efforts, Rakshak fosters a compassionate environment for animals, helping to preserve life on land and ensuring healthier, safer communities.
 
 
-## You can download the [APK](https://github.com/prasad14070/Rakshak/blob/main/Rakshak.apk).
+## You can download the [APK](https://drive.google.com/uc?export=download&id=1MCTQHgZzUPyz3SawIBtKNlfPl7t0jwY6).
 
 ## [Link to the demo video of RAKSHAK](https://youtu.be/dUkVn5qj9ec  "Title")
 
