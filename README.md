@@ -105,7 +105,7 @@ The Rakshak project aligns closely with the UN Principles, particularly Goal 3: 
 
 ## You can download the [APK](https://drive.google.com/file/d/11EMlcwbaNGWHzxg-pEdSTtwAkANRVt9t/view?usp=drive_link).
 
-## [Link to the demo video of RAKSHAK](https://drive.google.com/file/d/17k3H0OwssscFoLWfMtoVnRerMLApY5WW/view?usp=drive_link "Title")
+## [Link to the demo video of RAKSHAK](https://youtu.be/dUkVn5qj9ec  "Title")
 
 ### Thank you for exploring RAKSHAK! . If you have any questions or need support, feel free to reach out! 💬🤝
 
