@@ -13,9 +13,8 @@ Our mission is simple: to bridge the gap between animal lovers and stray animals
 - [Our Solution](#our-solution)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Future Scope](#future-scope)
-- [Contact & Support](#contact-support)
+
+
 
 # Introduction 🌟
 **Rakshak** is a **simple, user-friendly app** that allows anyone to contribute to the welfare of stray animals, whether they're looking to adopt, vaccinate, feed, or provide temporary care. Rakshak connects animal lovers, volunteers, and organizations, creating a united front to improve the lives of stray animals. 
@@ -107,5 +106,8 @@ The Rakshak project aligns closely with the UN Principles, particularly Goal 3: 
 ## You can download the [APK](https://drive.google.com/file/d/11EMlcwbaNGWHzxg-pEdSTtwAkANRVt9t/view?usp=drive_link).
 
 ## [Link to the demo video of RAKSHAK](https://drive.google.com/file/d/17k3H0OwssscFoLWfMtoVnRerMLApY5WW/view?usp=drive_link "Title")
+
+### Thank you for exploring RAKSHAK! . If you have any questions or need support, feel free to reach out! 💬🤝
+
 
 
