@@ -87,6 +87,17 @@ Dynamic LED signage on roads 🛑.
 
 Ultrasonic deterrents to keep animals away from high-risk areas 🔊.
 
+## 8. Report Stray Animals After Accidents 🐾🛠️
+If an accident involving a stray animal occurs, users can quickly report the incident via the app:
+
+Provide location details and upload photos to alert nearby volunteers and authorities.
+
+Connect with veterinarians for immediate medical support.
+
+Notify NGOs or rescue organizations for further care.
+
+AI-powered features prioritize reports based on urgency and proximity to support swift action.
+
 ![WhatsApp Image 2024-11-24 at 1 25 40 PM](https://github.com/user-attachments/assets/5af734cf-1df3-4bd8-921e-b8e2c7b353a8)
 
 
