@@ -67,22 +67,21 @@ AI algorithms identify animal species, health conditions, and unique features th
 
 ![image](https://github.com/user-attachments/assets/7ac79ad3-a5c6-4f24-b0f2-be1ab431ffb3)
 
-## 3. Vaccination and Medical Proof 💉
-Users can upload vaccination records with geo-tagging for easy tracking of immunized stray animals.
-## 4. Food and Daycare Center Integration 🗺️
+
+## 3. Food and Daycare Center Integration 🗺️
 Locate nearby animal daycare houses and feeding stations through an integrated map.
 Users can mark feeding locations to guide others in the community.
-## 5. Volunteer and Donation Opportunities 🤝
+## 4. Volunteer and Donation Opportunities 🤝
 Rakshak allows users to sign up as volunteers for rescues, feeding, or fostering.
 Donation drives for food, medical supplies, and shelters are seamlessly organized via the app.
-## 6. Lost and Found Matching 🔍
+## 5. Lost and Found Matching 🔍
 If someone finds a lost pet or stray animal, they can post its photo and location on the app.
 Pet owners can upload photos of their lost pets, and AI will compare these images with the database of found animals.
 Matches are highlighted, connecting owners with the person who found their pet or stray animal.
 
 ![WhatsApp Image 2024-11-24 at 1 25 40 PM](https://github.com/user-attachments/assets/5af734cf-1df3-4bd8-921e-b8e2c7b353a8)
 
-## 7. Alert Systems 🚗
+## 6. Alert Systems 🚗
 IoT sensors and AI models detect animal movement near roads, alerting drivers via:
 In-vehicle notifications 🚨.
 
@@ -90,7 +89,7 @@ Dynamic LED signage on roads 🛑.
 
 Ultrasonic deterrents to keep animals away from high-risk areas 🔊.
 
-## 8. Report Stray Animals After Accidents 🐾🛠️
+## 7. Report Stray Animals After Accidents 🐾🛠️
 If an accident involving a stray animal occurs, users can quickly report the incident via the app:
 
 Provide location details and upload photos to alert nearby volunteers and authorities.
@@ -103,12 +102,12 @@ AI-powered features prioritize reports based on urgency and proximity to support
 
 
 
-## 7. Community Feed for Updates 🐾
+## 8. Community Feed for Updates 🐾
 Users share stories, photos, and updates about stray animals, fostering a supportive network.
-## 8. AI Insights and Recommendations 🤖
+## 9. AI Insights and Recommendations 🤖
 AI predicts nearby animal population trends to suggest focused rescue efforts.
 Personalized recommendations on how users can help based on their location and activity.
-## 9. Immediate Veterinary Support 🏥
+## 10. Immediate Veterinary Support 🏥
 If users find a wounded or sick animal, they can immediately connect with veterinarians through the app for advice or to arrange for medical assistance.
 
 # Technologies Used 🛠️
@@ -123,6 +122,7 @@ The Rakshak app was developed using the following technologies:
 - **Google Maps API** for geolocation and mapping nearby animal care centers 🗺️
 - **ARCore** for AR-based animal recognition (future feature) 🤳
 - **AI & Machine Learning** for **image recognition** (e.g., animal health detection and lost pet matching) 🧠
+  
 
 # How AI Helps in Accident Prevention 🚨
 Rakshak uses AI and IoT technologies to address stray animal road safety challenges in innovative ways:
