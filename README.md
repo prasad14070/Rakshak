@@ -79,6 +79,9 @@ Donation drives for food, medical supplies, and shelters are seamlessly organize
 If someone finds a lost pet or stray animal, they can post its photo and location on the app.
 Pet owners can upload photos of their lost pets, and AI will compare these images with the database of found animals.
 Matches are highlighted, connecting owners with the person who found their pet or stray animal.
+
+![WhatsApp Image 2024-11-24 at 1 25 40 PM](https://github.com/user-attachments/assets/5af734cf-1df3-4bd8-921e-b8e2c7b353a8)
+
 ## 7. Alert Systems 🚗
 IoT sensors and AI models detect animal movement near roads, alerting drivers via:
 In-vehicle notifications 🚨.
@@ -98,7 +101,6 @@ Notify NGOs or rescue organizations for further care.
 
 AI-powered features prioritize reports based on urgency and proximity to support swift action.
 
-![WhatsApp Image 2024-11-24 at 1 25 40 PM](https://github.com/user-attachments/assets/5af734cf-1df3-4bd8-921e-b8e2c7b353a8)
 
 
 ## 7. Community Feed for Updates 🐾
